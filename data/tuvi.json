@@ -1,0 +1,117 @@
+{
+  "disclaimer": "Tử Vi Đẩu Số là bộ môn chiêm tinh phương Đông cổ truyền mang tính tham khảo, không thể thay thế quyết định cá nhân hay tư vấn chuyên nghiệp.",
+
+  "brightness": {
+    "M": { "label": "Miếu", "desc": "Sao ở vị trí cực mạnh, phát huy tối đa cát/hung tính vốn có.", "class": "brightness-M" },
+    "V": { "label": "Vượng", "desc": "Sao mạnh, ảnh hưởng rõ rệt và tích cực.",                   "class": "brightness-V" },
+    "Đ": { "label": "Đắc",  "desc": "Sao thuận lợi, phần nào phát huy được tốt đẹp.",             "class": "brightness-D" },
+    "H": { "label": "Hãm",  "desc": "Sao bị suy yếu, hung tinh có thể bớt hung, cát tinh bớt lợi.","class": "brightness-H" },
+    "B": { "label": "Bình", "desc": "Sao ở mức trung bình, cát hung trung hoà.",                   "class": "brightness-B" }
+  },
+
+  "cuc": {
+    "Thủy Nhị Cục": {
+      "element": "Thủy",
+      "number": 2,
+      "desc": "Mệnh Cục Thủy — thông minh, linh hoạt, khéo léo trong giao tiếp. Khởi Đại Hạn từ tuổi 2, thêm 10 mỗi cung."
+    },
+    "Mộc Tam Cục": {
+      "element": "Mộc",
+      "number": 3,
+      "desc": "Mệnh Cục Mộc — nhân hậu, có chí tiến thủ, tài năng văn chương. Khởi Đại Hạn từ tuổi 3."
+    },
+    "Kim Tứ Cục": {
+      "element": "Kim",
+      "number": 4,
+      "desc": "Mệnh Cục Kim — cương nghị, quyết đoán, có chí khí mạnh. Khởi Đại Hạn từ tuổi 4."
+    },
+    "Thổ Ngũ Cục": {
+      "element": "Thổ",
+      "number": 5,
+      "desc": "Mệnh Cục Thổ — trung thực, cẩn thận, chắc chắn và bền bỉ. Khởi Đại Hạn từ tuổi 5."
+    },
+    "Hỏa Lục Cục": {
+      "element": "Hỏa",
+      "number": 6,
+      "desc": "Mệnh Cục Hỏa — nhiệt huyết, sáng tạo, năng động và đam mê. Khởi Đại Hạn từ tuổi 6."
+    }
+  },
+
+  "palace_roles": {
+    "Mệnh":      "Tổng quát bản thân, tính cách, tướng mạo, vận mệnh cả đời.",
+    "Phụ Mẫu":   "Cha mẹ, bề trên, sếp, mối quan hệ với thế hệ trước.",
+    "Phúc Đức":  "Tinh thần, tâm linh, phúc duyên, ăn uống hưởng thụ, tổ tiên phù hộ.",
+    "Điền Trạch": "Nhà cửa, bất động sản, tài sản tích lũy, môi trường sinh sống.",
+    "Quan Lộc":  "Sự nghiệp, công danh, thi cử, chức vụ, doanh nghiệp.",
+    "Nô Bộc":    "Bạn bè, đồng nghiệp, nhân viên, mối quan hệ xã hội ngang hàng.",
+    "Thiên Di":  "Đi lại, di chuyển, xuất ngoại, thay đổi môi trường, giao lưu xa.",
+    "Tật Ách":   "Sức khỏe, bệnh tật, tai nạn, cơ thể, khả năng phục hồi.",
+    "Tài Bạch":  "Tiền bạc, thu nhập, tài chính, đầu tư, cách kiếm tiền.",
+    "Tử Tức":    "Con cái, học trò, sáng tạo, tác phẩm, người kế thừa.",
+    "Phu Thê":   "Vợ/chồng, tình yêu, hôn nhân, mối quan hệ đối tác thân mật.",
+    "Huynh Đệ":  "Anh chị em ruột, bạn bè thân thiết, người cùng thế hệ."
+  },
+
+  "star_descriptions": {
+    "Tử Vi":       "Đế tinh sáng nhất trên bầu trời Tử Vi. Chủ phúc lộc danh thọ, uy quyền, quý phái và lãnh đạo. Người có Tử Vi Miếu/Vượng tại Mệnh thường có địa vị cao, được kính nể.",
+    "Thiên Cơ":    "Mưu sĩ tinh, chủ trí tuệ và tư duy chiến lược. Người được sao này chiếu thường thông minh, giỏi cơ mưu, có khả năng phân tích sắc bén. Khi Miếu thường tốt về học vấn và tư duy.",
+    "Thái Dương":  "Quang minh đại tinh, chủ danh vọng, sự nghiệp và cha/chồng. Nam mệnh gặp Thái Dương Miếu rất tốt cho công danh. Nữ mệnh liên quan đến cha và chồng.",
+    "Vũ Khúc":     "Tài tinh, chủ tiền bạc, dũng mãnh và quyết đoán. Người có Vũ Khúc mạnh tại Mệnh thường rất giỏi về tài chính, kiếm tiền bằng sức lực bản thân.",
+    "Thiên Đồng":  "Phúc tinh, chủ an nhàn và hài hòa. Người được Thiên Đồng chiếu thường hiền hòa, dễ thương, cuộc đời ít va chạm. Ưa hưởng thụ và thiên về nghệ thuật.",
+    "Liêm Trinh":  "Tù tinh kiêm đào hoa. Nghiêm nghị, tự trọng, nhưng cũng có duyên tình cảm. Tốt cho thi cử và sự nghiệp pháp luật. Khi Hãm dễ gặp kiện tụng, thị phi.",
+    "Thiên Phủ":   "Lệnh tinh quý phái, chủ kho trời ban. Người có Thiên Phủ mạnh thường giỏi tích lũy, tài chính vững vàng, sống cẩn thận và đáng tin cậy.",
+    "Thái Âm":     "Phú tinh, chủ tài lộc âm và mẹ/vợ. Nữ mệnh gặp Thái Âm Miếu/Vượng rất tốt. Nam mệnh liên quan đến mẹ và vợ. Thích yên tĩnh, nhẹ nhàng, thiên về âm tính.",
+    "Tham Lang":   "Đào hoa tinh đa duyên, chủ ham muốn và tài nghệ. Người có Tham Lang thường có tài năng nghệ thuật, đa tình. Khi tốt mang lại tài lộc và sức hút; khi xấu dễ vướng vào tình ái phức tạp.",
+    "Cự Môn":      "Ám tinh ngôn ngữ, chủ biện tài và thị phi. Giỏi nói, phù hợp nghề luật sư, diễn thuyết, thầy giáo. Khi Hãm dễ bị nói xấu, mâu thuẫn lời nói.",
+    "Thiên Tướng": "Ấn tinh trung thực, chủ công danh và bảo trợ. Người có Thiên Tướng mạnh thường được cấp trên tin tưởng, phù hợp làm quản lý, hành chính.",
+    "Thiên Lương": "Ấm tinh thọ tinh, chủ đức độ và nguyên tắc. Người có Thiên Lương thường sống lâu, có tâm hồn cao thượng, thích giúp đỡ người khác. Tốt cho y học và tư vấn.",
+    "Thất Sát":    "Quyền tinh sát phạt, chủ dũng khí và quyền lực. Người có Thất Sát mạnh thường rất quyết đoán, dũng cảm, phù hợp lãnh đạo. Khi Hãm dễ gặp va chạm, cần cẩn thận.",
+    "Phá Quân":    "Hao tinh tiên phong, chủ phá cũ tạo mới. Người có Phá Quân thường sáng tạo, thích thay đổi, dám phá vỡ khuôn mẫu cũ. Dễ thăng trầm nhưng có khả năng tái sinh mạnh mẽ.",
+
+    "Tả Phù":    "Sao phò tả, chủ bạn bè, quý nhân giúp đỡ. Cùng Hữu Bật tạo thành cặp phò trợ đắc lực nhất trong Tử Vi.",
+    "Hữu Bật":   "Sao phò hữu, chủ hỗ trợ từ phía sau. Khi đồng cung với Tử Vi hoặc chính tinh mạnh sẽ tăng thêm sức mạnh đáng kể.",
+    "Văn Xương":  "Sao văn chương, chủ thi cử đỗ đạt và học vấn. Phù hợp nghề giáo dục, viết lách, nghiên cứu.",
+    "Văn Khúc":   "Sao tài nghệ, chủ âm nhạc, nghệ thuật và ăn nói khéo léo. Người có Văn Khúc thường tài hoa, duyên dáng.",
+    "Thiên Khôi": "Sao đứng đầu, quý nhân bề trên che chở. Được người lớn và cấp trên giúp đỡ khi gặp khó khăn.",
+    "Thiên Việt": "Sao quý nhân ngầm giúp đỡ, bề trên nâng đỡ. Thường giải nguy trong những lúc khó khăn nhất.",
+
+    "Kình Dương":  "Sao hung bạo cương trực, dễ gây va chạm. Khi tốt tạo nên chí khí và quyết tâm; khi xấu dễ gặp tai nạn, huyết quang.",
+    "Đà La":       "Sao trì trệ kéo dài, mọi việc hay bị trở ngại, lặp đi lặp lại. Cần kiên nhẫn hơn người thông thường.",
+    "Hỏa Tinh":    "Sao nóng bộc phát, tai họa đến bất ngờ. Khi tốt tạo hành động quyết đoán; khi xấu tai họa thình lình.",
+    "Linh Tinh":   "Sao âm thầm bộc phát, trầm uất. Hung họa đến khó lường, không có dấu hiệu báo trước.",
+    "Địa Không":   "Sao hư vô, mất mát. Khi tốt tạo ra tư tưởng siêu việt, ngộ đạo; khi xấu hao tốn và thất bại.",
+    "Địa Kiếp":    "Sao cướp đoạt, thăng trầm sóng gió. Dễ mất tiền bạc và cơ hội bởi hoàn cảnh bất ngờ.",
+
+    "Hóa Lộc":   "Hóa sao mang lại tài lộc dồi dào, thuận lợi trong năm. Sao được Hóa Lộc chiếu sẽ tăng thêm cát lợi.",
+    "Hóa Quyền": "Hóa sao mang lại quyền uy, chủ động trong công việc. Sao được chiếu sẽ tăng thêm uy quyền và quyết đoán.",
+    "Hóa Khoa":   "Hóa sao mang lại danh tiếng, thi cử thuận lợi. Có khả năng cứu giải ách nạn nhờ uy danh.",
+    "Hóa Kỵ":    "Hóa sao gây thị phi, trở ngại và lo âu. Sao bị Kỵ chiếu sẽ phát huy thêm mặt tiêu cực.",
+
+    "Thiên Mã":  "Sao di chuyển năng động. Đóng tại Mệnh hay Tài Bạch hoặc Thiên Di rất tốt cho nghề liên quan đến đi lại, thương mại.",
+    "Đào Hoa":   "Sao duyên dáng, nghệ thuật. Tốt cho nghề sáng tạo nhưng dễ vướng tình cảm phức tạp.",
+    "Hồng Loan":  "Sao nhân duyên hôn nhân. Nếu tốt năm đó dễ có tin vui hỷ sự.",
+    "Lộc Tồn":   "Sao lộc trời ban, bảo trợ tài chính. Khi đóng tại Mệnh hoặc Tài Bạch rất tốt cho tài lộc.",
+    "Thiên Hình": "Sao kỷ luật và pháp luật. Phù hợp nghề y, pháp, quân sự. Khi xấu dễ gặp kiện tụng.",
+    "Thiên Khốc": "Sao tiếng khóc, đau buồn. Cần tránh hành sự tang ma hay hội nhóm trong thời điểm xấu.",
+    "Thiên Hư":   "Sao hư hao và lo lắng. Mọi việc dễ không như kỳ vọng, cần thực tế hơn.",
+    "Cô Thần":   "Sao cô độc. Tốt cho tu hành, nghiên cứu một mình; khó trong hợp tác nhóm.",
+    "Quả Tú":    "Sao lẻ loi. Tương tự Cô Thần, dễ cảm thấy đơn độc hoặc gặp trắc trở tình duyên.",
+    "Kiếp Sát":  "Sao hung sát bất ngờ, cản trở đột ngột. Cần cẩn thận tai nạn và thất bại bất ngờ.",
+    "Phá Toái":  "Sao đổ vỡ, việc dở dang. Tránh khởi đầu việc lớn khi Phá Toái ở vị trí xấu."
+  },
+
+  "trang_sinh_descriptions": {
+    "Trường Sinh": "Thời kỳ khởi đầu đầy sức sống và năng lượng. Mọi việc bắt đầu thuận lợi, dễ có thêm nhân duyên.",
+    "Mộc Dục":    "Thời kỳ tắm gội, cảm xúc phong phú. Dễ có duyên tình cảm nhưng cũng dễ bị lung lay.",
+    "Quan Đới":   "Thời kỳ trưởng thành và gánh vác. Tích lũy kinh nghiệm, danh vị bắt đầu được thiết lập.",
+    "Lâm Quan":   "Thời kỳ làm việc sung sức. Đắc tài đắc lộc, phù hợp thăng tiến sự nghiệp.",
+    "Đế Vượng":   "Đỉnh cao phong độ. Công việc thuận lợi, sức lực và tài năng phát huy tối đa.",
+    "Suy":        "Bắt đầu hướng nội. Nên gìn giữ, ít mở rộng, đầu tư dài hạn hơn ngắn hạn.",
+    "Bệnh":       "Thời kỳ suy yếu. Cần chú ý sức khỏe, tránh việc mạo hiểm lớn.",
+    "Tử":         "Thời kỳ trầm lắng suy ngẫm. Tốt cho tu thân học đạo, không nên hành động mạnh.",
+    "Mộ":         "Thời kỳ tích trữ và chôn cất. Giỏi gìn giữ nhưng thiếu linh hoạt, dễ bảo thủ.",
+    "Tuyệt":      "Thời kỳ dứt đoạn chuyển giao. Thích hợp chấm dứt cái cũ để chuyển sang giai đoạn mới.",
+    "Thai":       "Thời kỳ ấp ủ dự định. Hình thành kế hoạch mới nhưng chưa nên hành động.",
+    "Dưỡng":      "Thời kỳ nuôi dưỡng. Tích lũy nội lực, chuẩn bị cho chu kỳ mới sắp đến."
+  }
+}

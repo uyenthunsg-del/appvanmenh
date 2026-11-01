@@ -1,0 +1,5 @@
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.9
+ephem>=4.2.0
+lunarcalendar>=0.0.9

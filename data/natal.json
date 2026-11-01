@@ -1,0 +1,179 @@
+{
+  "zodiac_signs": {
+    "aries": {
+      "name": "Bạch Dương",
+      "element": "Lửa",
+      "modality": "Tiên phong",
+      "ruler": "Hỏa Tinh",
+      "keyword": "Tiên phong, dũng cảm, thẳng thắn, nhiệt huyết, độc lập",
+      "summary": "Bạch Dương là cung hoàng đạo đầu tiên, mang năng lượng khởi đầu mạnh mẽ, tính cách quyết đoán, dám nghĩ dám làm và luôn muốn dẫn đầu."
+    },
+    "taurus": {
+      "name": "Kim Ngưu",
+      "element": "Đất",
+      "modality": "Kiên định",
+      "ruler": "Kim Tinh",
+      "keyword": "Kiên nhẫn, thực tế, bền bỉ, yêu cái đẹp, đáng tin cậy",
+      "summary": "Kim Ngưu tượng trưng cho sự ổn định, tích lũy giá trị bền vững, khiếu thẩm mỹ tinh tế và sự gắn kết sâu sắc với thế giới vật chất."
+    },
+    "gemini": {
+      "name": "Song Tử",
+      "element": "Khí",
+      "modality": "Linh hoạt",
+      "ruler": "Thủy Tinh",
+      "keyword": "Thông minh, hoạt ngôn, tò mò, thích ứng nhanh, đa tài",
+      "summary": "Song Tử đại diện cho sự giao tiếp, kết nối thông tin và học hỏi đa chiều. Đầu óc nhanh nhạy, hài hước và yêu thích sự đổi mới."
+    },
+    "cancer": {
+      "name": "Cự Giải",
+      "element": "Nước",
+      "modality": "Tiên phong",
+      "ruler": "Mặt Trăng",
+      "keyword": "Nhạy cảm, nuôi dưỡng, gắn bó gia đình, trực giác sâu sắc",
+      "summary": "Cự Giải là cung của cảm xúc và sự che chở. Giàu lòng trắc ẩn, trí nhớ cảm xúc mạnh mẽ và luôn hướng về cội nguồn, tổ ấm."
+    },
+    "leo": {
+      "name": "Sư Tử",
+      "element": "Lửa",
+      "modality": "Kiên định",
+      "ruler": "Mặt Trời",
+      "keyword": "Tự tin, hào phóng, lãnh đạo, sáng tạo, cuốn hút",
+      "summary": "Sư Tử tỏa sáng với sự nhiệt thành, lòng kiêu hãnh và tư chất lãnh đạo tự nhiên. Thích được công nhận tài năng và sống hết mình."
+    },
+    "virgo": {
+      "name": "Xử Nữ",
+      "element": "Đất",
+      "modality": "Linh hoạt",
+      "ruler": "Thủy Tinh",
+      "keyword": "Cẩn trọng, chu đáo, tỉ mỉ, phân tích, tận tụy phục vụ",
+      "summary": "Xử Nữ đại diện cho sự hoàn thiện và tinh thần phục vụ. Giỏi phân tích chi tiết, có tổ chức kỷ luật cao và luôn hướng tới sự chỉn chu."
+    },
+    "libra": {
+      "name": "Thiên Bình",
+      "element": "Khí",
+      "modality": "Tiên phong",
+      "ruler": "Kim Tinh",
+      "keyword": "Cân bằng, hòa nhã, công bằng, ngoại giao, duy mỹ",
+      "summary": "Thiên Bình tìm kiếm sự hài hòa trong mọi mối quan hệ. Có tài ngoại giao xuất sắc, yêu chuộng hòa bình, công lý và cái đẹp nghệ thuật."
+    },
+    "scorpio": {
+      "name": "Bọ Cạp",
+      "element": "Nước",
+      "modality": "Kiên định",
+      "ruler": "Diêm Vương Tinh",
+      "keyword": "Sâu sắc, mãnh liệt, chuyển hóa, kiên cường, bí ẩn",
+      "summary": "Bọ Cạp mang năng lượng thấu thị và tái sinh. Bản lĩnh kiên cường trước thử thách, trung thành tuyệt đối và cảm xúc vô cùng mãnh liệt."
+    },
+    "sagittarius": {
+      "name": "Nhân Mã",
+      "element": "Lửa",
+      "modality": "Linh hoạt",
+      "ruler": "Mộc Tinh",
+      "keyword": "Lạc quan, tự do, triết học, phiêu lưu, chân lý",
+      "summary": "Nhân Mã là người lữ hành tìm kiếm chân lý và tri thức rộng lớn. Tinh thần phóng khoáng, lạc quan yêu đời và khao khát tự do vô tận."
+    },
+    "capricorn": {
+      "name": "Ma Kết",
+      "element": "Đất",
+      "modality": "Tiên phong",
+      "ruler": "Thổ Tinh",
+      "keyword": "Kiên định, trách nhiệm, tham vọng, kỷ luật, bền bỉ",
+      "summary": "Ma Kết đại diện cho đỉnh cao danh vọng đạt được bằng nỗ lực kiên trì. Sống có mục tiêu rõ ràng, thực tế và có tinh thần trách nhiệm lớn."
+    },
+    "aquarius": {
+      "name": "Bảo Bình",
+      "element": "Khí",
+      "modality": "Kiên định",
+      "ruler": "Thiên Vương Tinh",
+      "keyword": "Độc đáo, nhân đạo, tiến bộ, sáng tạo đột phá, độc lập",
+      "summary": "Bảo Bình mang tư duy đi trước thời đại và tinh thần cống hiến cho cộng đồng. Thích phá vỡ định kiến, tự do tư tưởng và tôn trọng sự khác biệt."
+    },
+    "pisces": {
+      "name": "Song Ngư",
+      "element": "Nước",
+      "modality": "Linh hoạt",
+      "ruler": "Hải Vương Tinh",
+      "keyword": "Mơ mộng, từ bi, trực giác, đồng cảm, tâm linh",
+      "summary": "Song Ngư là cung hoàng đạo cuối cùng, hòa tan mọi ranh giới trong tình yêu thương và sự thấu cảm. Giàu trí tưởng tượng và nhạy cảm tâm linh."
+    }
+  },
+  "planets": {
+    "SUN": {
+      "name": "Mặt Trời (Sun)",
+      "meaning": "Cái Tôi cốt lõi, ý chí sống, bản ngã, sức sống và mục đích định mệnh của một đời người."
+    },
+    "MOON": {
+      "name": "Mặt Trăng (Moon)",
+      "meaning": "Thế giới nội tâm, cảm xúc tiềm thức, nhu cầu an toàn, thói quen và trực giác bản năng."
+    },
+    "MERCURY": {
+      "name": "Thủy Tinh (Mercury)",
+      "meaning": "Phương thức tư duy, học tập, giao tiếp, xử lý thông tin và lý luận logic."
+    },
+    "VENUS": {
+      "name": "Kim Tinh (Venus)",
+      "meaning": "Quan niệm về tình yêu, gu thẩm mỹ, cách thu hút các mối quan hệ và giá trị tiền bạc."
+    },
+    "MARS": {
+      "name": "Hỏa Tinh (Mars)",
+      "meaning": "Động lực hành động, ngọn lửa đam mê, ý chí chiến đấu, cách khẳng định bản thân và năng lượng thể chất."
+    },
+    "JUPITER": {
+      "name": "Mộc Tinh (Jupiter)",
+      "meaning": "Ngôi sao may mắn, sự mở rộng cơ hội, niềm tin triết học, lòng rộng lượng và sự phát triển trí tuệ."
+    },
+    "SATURN": {
+      "name": "Thổ Tinh (Saturn)",
+      "meaning": "Kỷ luật, bài học nghiệp quả, ranh giới, tinh thần trách nhiệm và thành quả gặt hái sau thời gian dài nỗ lực."
+    },
+    "URANUS": {
+      "name": "Thiên Vương Tinh (Uranus)",
+      "meaning": "Sự đổi mới đột phá, trực giác thiên tài, tinh thần tự do, tính độc bản và những bước ngoặt bất ngờ."
+    },
+    "NEPTUNE": {
+      "name": "Hải Vương Tinh (Neptune)",
+      "meaning": "Cảm hứng nghệ thuật vô tận, giấc mơ, lòng trắc ẩn không điều kiện và kết nối tâm linh sâu thẳm."
+    },
+    "PLUTO": {
+      "name": "Diêm Vương Tinh (Pluto)",
+      "meaning": "Quyền lực ngầm, sự lột xác tái sinh từ đổ vỡ, chuyển hóa nội tâm sâu sắc và sức mạnh ý chí phi thường."
+    },
+    "NORTH_NODE": {
+      "name": "La Hầu (North Node)",
+      "meaning": "Bài học phát triển mới của linh hồn, hướng đi định mệnh cần hướng tới trong kiếp sống này."
+    },
+    "CHIRON": {
+      "name": "Chiron",
+      "meaning": "Vết thương sâu kín trong quá khứ nhưng chính từ đó khai mở khả năng chữa lành và truyền cảm hứng cho người khác."
+    },
+    "ASC": {
+      "name": "Cung Mọc (Ascendant)",
+      "meaning": "Diện mạo bên ngoài, ấn tượng đầu tiên khi người khác tiếp xúc với bạn và chiếc kính vạn hoa bạn nhìn cuộc đời."
+    },
+    "MC": {
+      "name": "Thiên Đỉnh (Midheaven)",
+      "meaning": "Đỉnh cao sự nghiệp, danh tiếng xã hội, hình ảnh công chúng và di sản bạn muốn để lại cho đời."
+    }
+  },
+  "houses": {
+    "1": "Nhà 1 (Bản Thân): Nhận diện cá nhân, ngoại hình, phong thái, cách tiếp cận cuộc sống mới.",
+    "2": "Nhà 2 (Tài Sản): Tiền bạc tích lũy, nguồn thu nhập cá nhân, giá trị tự thân và tài sản vật chất.",
+    "3": "Nhà 3 (Giao Tiếp): Học hành, giao tiếp hàng ngày, tư duy ngắn hạn, quan hệ anh chị em và môi trường sống gần gũi.",
+    "4": "Nhà 4 (Gia Đình): Cội nguồn, cha mẹ, nền tảng tuổi thơ, sự ổn định nội tâm và nơi chốn an cư.",
+    "5": "Nhà 5 (Sáng Tạo): Niềm vui, tình yêu lãng mạn, con cái, nghệ thuật, giải trí và sự tự thể hiện cá tính.",
+    "6": "Nhà 6 (Công Việc & Sức Khỏe): Thói quen sinh hoạt hàng ngày, sức khỏe thể chất, công việc chuyên môn và sự cống hiến.",
+    "7": "Nhà 7 (Bạn Đời & Đối Tác): Hôn nhân, các mối quan hệ một-một, bạn đồng hành và hợp đồng pháp lý.",
+    "8": "Nhà 8 (Chuyển Hóa & Tài Sản Chung): Chiều sâu tâm lý, tình dục, chuyển hóa, thừa kế và tài chính hợp tác.",
+    "9": "Nhà 9 (Tri Thức & Du Hành): Học vấn bậc cao, xuất ngoại, triết học, tôn giáo, tầm nhìn xa và nhân sinh quan.",
+    "10": "Nhà 10 (Sự Nghiệp): Địa vị xã hội, danh tiếng, hoài bão nghề nghiệp, thành tựu cuộc đời và người lãnh đạo.",
+    "11": "Nhà 11 (Cộng Đồng): Bạn bè, mạng lưới xã hội, lý tưởng nhân đạo, mục tiêu tương lai và hội nhóm chung chí hướng.",
+    "12": "Nhà 12 (Tiềm Thức): Thế giới tâm linh vô thức, sự buông bỏ, bí mật, giấc mơ và không gian tĩnh lặng phục hồi năng lượng."
+  },
+  "aspects": {
+    "Trùng tụ": "Hai năng lượng hòa quyện chặt chẽ làm một, khuếch đại lẫn nhau một cách mạnh mẽ.",
+    "Lục hợp": "Cơ hội thuận lợi tự nhiên, sự đồng điệu nhẹ nhàng cần được chủ động nắm bắt.",
+    "Vuông góc": "Căng thẳng kích thích hành động, tạo động lực vượt khó và chuyển hóa bản thân mãnh liệt.",
+    "Tam hợp": "Dòng chảy năng lượng hài hòa tuyệt vời, tài năng thiên bẩm và sự may mắn tự nhiên.",
+    "Đối đỉnh": "Hai thái cực đối nghịch cần tìm điểm cân bằng, học cách soi chiếu và dung hòa trong các mối quan hệ."
+  }
+}

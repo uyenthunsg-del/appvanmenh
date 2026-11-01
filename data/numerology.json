@@ -1,0 +1,47 @@
+{
+  "indices": {
+    "life_path": {
+      "title": "Số chủ đạo (đường đời)",
+      "about": "Tính từ ngày tháng năm sinh dương lịch; thường được xem là con số mô tả hướng đi và bài học lớn của cuộc đời."
+    },
+    "expression": {
+      "title": "Số sứ mệnh (biểu đạt)",
+      "about": "Tính từ toàn bộ chữ cái trong họ tên; thường gắn với năng lực và cách một người thể hiện bản thân."
+    },
+    "soul_urge": {
+      "title": "Số linh hồn (khát vọng nội tâm)",
+      "about": "Tính từ các nguyên âm trong họ tên; thường gắn với động lực và mong muốn bên trong."
+    },
+    "personality": {
+      "title": "Số nhân cách (ấn tượng bên ngoài)",
+      "about": "Tính từ các phụ âm trong họ tên; thường gắn với hình ảnh mà người khác dễ nhận thấy."
+    },
+    "attitude": {
+      "title": "Số thái độ",
+      "about": "Tính từ ngày và tháng sinh; thường gắn với cách một người phản ứng lần đầu trước tình huống mới."
+    },
+    "maturity": {
+      "title": "Số trưởng thành",
+      "about": "Tính từ số chủ đạo cộng số sứ mệnh; thường được xem là xu hướng nổi rõ hơn khi người ta có thêm tuổi đời và trải nghiệm."
+    },
+    "birth_day": {
+      "title": "Số ngày sinh",
+      "about": "Tính từ ngày sinh trong tháng; thường được xem là một điểm mạnh hoặc tài năng bổ sung."
+    }
+  },
+  "numbers": {
+    "1": "Thường gắn với tính độc lập, chủ động và tinh thần tiên phong; có xu hướng thích tự quyết định và dẫn dắt.",
+    "2": "Thường gắn với sự hợp tác, nhạy cảm và khả năng lắng nghe; có xu hướng coi trọng sự hòa hợp trong các mối quan hệ.",
+    "3": "Thường gắn với sự sáng tạo, giao tiếp và lạc quan; có xu hướng thích bày tỏ ý tưởng và kết nối với người khác.",
+    "4": "Thường gắn với kỷ luật, thực tế và kiên trì; có xu hướng ưa trật tự, kế hoạch rõ ràng và nền tảng vững chắc.",
+    "5": "Thường gắn với tự do, khả năng thích nghi và ham trải nghiệm; có xu hướng thích sự thay đổi và đa dạng.",
+    "6": "Thường gắn với trách nhiệm, sự chăm sóc và hài hòa trong gia đình, cộng đồng; có xu hướng quan tâm đến người xung quanh.",
+    "7": "Thường gắn với sự suy tư, phân tích và tìm hiểu chiều sâu; có xu hướng cần không gian riêng để suy nghĩ.",
+    "8": "Thường gắn với tham vọng, tổ chức và quản lý nguồn lực; có xu hướng hướng tới thành tựu thực tế và sự vững vàng.",
+    "9": "Thường gắn với lòng nhân ái, tầm nhìn rộng và tinh thần cống hiến; có xu hướng quan tâm đến các vấn đề chung.",
+    "11": "Số bậc thầy, thường được gắn với trực giác và cảm hứng; mang nền của số 2 nên cũng có xu hướng nhạy cảm cao.",
+    "22": "Số bậc thầy, thường được gắn với khả năng biến ý tưởng lớn thành kết quả thực tế; mang nền của số 4.",
+    "33": "Số bậc thầy, thường được gắn với tinh thần chăm sóc và cống hiến cho cộng đồng; mang nền của số 6. Đây là số hiếm và không phải nguồn nào cũng dùng đến."
+  },
+  "disclaimer": "Thần số học là hệ thống diễn giải mang tính truyền thống, không phải kết luận khoa học. Nội dung chỉ để tham khảo."
+}

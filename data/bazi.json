@@ -1,0 +1,101 @@
+{
+  "pillars": {
+    "year": {
+      "name": "Trụ Năm",
+      "meaning": "Đại diện cho cội nguồn tổ tiên, ông bà, hoàn cảnh xuất thân và thời niên thiếu (khoảng từ 1 đến 16 tuổi)."
+    },
+    "month": {
+      "name": "Trụ Tháng",
+      "meaning": "Đại diện cho cha mẹ, anh chị em ruột, môi trường nuôi dưỡng và giai đoạn thanh niên lập nghiệp (khoảng từ 17 đến 32 tuổi). Đây là trụ chỉ huy lệnh tháng quan trọng nhất trong việc định cách cục Bát Tự."
+    },
+    "day": {
+      "name": "Trụ Ngày",
+      "meaning": "Thiên can ngày chính là Bản Mệnh (Nhật Chủ / Nhật Can). Địa chi ngày là Cung Phu Thê (hôn nhân, bạn đời). Đại diện cho giai đoạn trung niên trưởng thành (khoảng từ 33 đến 48 tuổi)."
+    },
+    "hour": {
+      "name": "Trụ Giờ",
+      "meaning": "Đại diện cho con cái, thế hệ kế nghiệp, người dưới quyền, thành quả cả đời và giai đoạn hậu vận tuổi già (từ 49 tuổi trở đi)."
+    }
+  },
+  "ten_gods": {
+    "Tỷ Kiên": {
+      "nature": "Tương đồng",
+      "keyword": "Ý chí, tự chủ, bạn bè, đồng nghiệp, sự độc lập",
+      "meaning": "Tỷ Kiên biểu thị sự kiên định, tự lực cánh sinh, tự tin vào bản thân. Khi cát lợi mang lại sự tương trợ đắc lực từ bạn bè, đồng nghiệp; khi quá vượng dễ trở nên bướng bỉnh, độc đoán."
+    },
+    "Kiếp Tài": {
+      "nature": "Tương tranh",
+      "keyword": "Hành động, cạnh tranh, hào sảng, dám mạo hiểm",
+      "meaning": "Kiếp Tài biểu thị tính cách quyết liệt, năng động, dám dấn thân và nhiệt huyết. Khi cân bằng giúp vượt khó xuất sắc; khi quá vượng dễ hao tán tiền tài hoặc gặp tranh chấp lợi ích."
+    },
+    "Thực Thần": {
+      "nature": "Phúc thọ",
+      "keyword": "Tài hoa, hưởng thụ, ấm no, từ ái, nghệ thuật",
+      "meaning": "Thực Thần là sao phúc đức, biểu thị tính tình hòa nhã, có năng khiếu ẩm thực, văn nghệ, trí tưởng tượng phong phú và khả năng kiếm tiền chân chính, bền bỉ."
+    },
+    "Thương Quan": {
+      "nature": "Đột phá",
+      "keyword": "Sáng tạo, tài biện, phá cách, cá tính mạnh mẽ",
+      "meaning": "Thương Quan biểu thị sự thông minh vượt bậc, óc sáng tạo và tinh thần đổi mới không ngừng. Người có Thương Quan thường không thích gò bó, khéo ăn nói nhưng cần chú ý giữ hòa khí trong các mối quan hệ."
+    },
+    "Thiên Tài": {
+      "nature": "Cơ hội",
+      "keyword": "Tài lộc bất ngờ, đầu tư, nhạy bén kinh doanh, quảng giao",
+      "meaning": "Thiên Tài tượng trưng cho nguồn tài lộc đến từ kinh doanh, đầu tư, cơ hội ngoài lương cố định. Người có Thiên Tài rất nhạy bén với cơ hội thị trường, tính tình phóng khoáng."
+    },
+    "Chính Tài": {
+      "nature": "Tích lũy",
+      "keyword": "Lao động chính đáng, ổn định, cẩn trọng, thực tế",
+      "meaning": "Chính Tài tượng trưng cho của cải tích lũy từ công sức, nghề nghiệp ổn định và tính cẩn trọng. Người có Chính Tài quý trọng tiền bạc, có trách nhiệm với gia đình và chi tiêu hợp lý."
+    },
+    "Thất Sát": {
+      "nature": "Uy quyền",
+      "keyword": "Bản lĩnh, kỷ luật, áp lực, quyền lực, tiên phong",
+      "meaning": "Thất Sát (Thiên Quan) tượng trưng cho người tiên phong mở lối, dám chịu áp lực lớn và thích hợp nắm quyền lãnh đạo. Nếu được chế hóa hợp lý sẽ trở thành người có tầm ảnh hưởng lớn."
+    },
+    "Chính Quan": {
+      "nature": "Chính trực",
+      "keyword": "Danh dự, uy tín, khuôn phép, địa vị, thăng tiến",
+      "meaning": "Chính Quan là ngôi sao của địa vị, công danh và kỷ cương xã hội. Người có Chính Quan xem trọng chữ tín, sống có nguyên tắc, đáng tin cậy và dễ được cấp trên trọng dụng."
+    },
+    "Thiên Ấn": {
+      "nature": "Đặc biệt",
+      "keyword": "Trực giác, nghiên cứu, huyền bí, cô độc, chuyên sâu",
+      "meaning": "Thiên Ấn (Kiêu Thần) biểu thị trực giác nhạy bén, óc tìm tòi những lĩnh vực tri thức đặc thù, công nghệ cao hoặc nghệ thuật trừu tượng. Tính cách thích yên tĩnh, độc lập suy nghĩ."
+    },
+    "Chính Ấn": {
+      "nature": "Nhân ái",
+      "keyword": "Học thức, từ bi, quý nhân, chở che, bao dung",
+      "meaning": "Chính Ấn tượng trưng cho học vấn uyên bác, tấm lòng từ bi, sự chở che từ cha mẹ và quý nhân. Người mang Chính Ấn có nhân cách cao thượng, hiếu kính và coi trọng tri thức."
+    }
+  },
+  "life_stages": {
+    "Trường Sinh": "Giai đoạn bắt đầu sinh sôi nảy nở, tràn đầy sức sống và sinh khí tươi mới.",
+    "Mộc Dục": "Giai đoạn tắm gội thanh tẩy, giàu cảm xúc, yêu thích cái đẹp nhưng dễ gặp trắc trở tình cảm.",
+    "Quan Đới": "Giai đoạn trưởng thành, bắt đầu đeo đai mặc áo làm việc, tích lũy kinh nghiệm và uy tín.",
+    "Lâm Quan": "Thời kỳ bước vào đỉnh cao sự nghiệp, được nhận bổng lộc, tự chủ tài chính.",
+    "Đế Vượng": "Đỉnh cao tuyệt đối của năng lượng và danh vọng, cần khiêm nhường để giữ bền vững.",
+    "Suy": "Năng lượng bắt đầu chùng xuống, tính cách trầm tĩnh, thấu đáo hơn.",
+    "Bệnh": "Năng lượng mệt mỏi, cần chú ý chăm sóc sức khỏe và tránh làm việc quá sức.",
+    "Tử": "Năng lượng tĩnh lặng nhất, thích hợp nghiên cứu chiều sâu, tư duy tĩnh mịch.",
+    "Mộ": "Giai đoạn kho chứa cất giấu năng lượng, giỏi tích lũy và bảo tồn của cải.",
+    "Tuyệt": "Điểm chuyển tiếp giữa chu kỳ cũ và mới, linh hoạt đón nhận cái mới.",
+    "Thai": "Mầm mống sự sống được ấp ủ nuôi dưỡng trong tiềm thức.",
+    "Dưỡng": "Giai đoạn chăm sóc, chuẩn bị đầy đủ dưỡng chất để sẵn sàng tái sinh."
+  },
+  "symbolic_stars": {
+    "Thiên Ất Quý Nhân": "Vị thần bảo hộ tối cao trong Bát Tự. Gặp việc hung biến cát, khi khó khăn luôn có người tốt giúp đỡ vượt qua hoạn nạn.",
+    "Văn Xương": "Sao chủ về trí tuệ, học vấn thông minh, tài hoa văn chương, thi cử đỗ đạt và khả năng tiếp thu tri thức nhanh.",
+    "Lộc Thần": "Sao bổng lộc, tượng trưng cho phúc lộc dồi dào, có nghề nghiệp ổn định, kiếm tiền thuận lợi và độc lập kinh tế.",
+    "Kình Dương": "Ngôi sao uy dũng, tính cách cương trực, quyết liệt, dám đột phá khó khăn nhưng cần cẩn trọng chấn thương hoặc va chạm.",
+    "Dịch Mã": "Sao chủ về sự di chuyển, năng động, xuất ngoại, công tác xa hoặc thường xuyên thay đổi môi trường sống và làm việc.",
+    "Đào Hoa": "Sao biểu thị sức cuốn hút, duyên dáng trong giao tiếp, được nhiều người yêu mến, giàu cảm xúc và năng khiếu nghệ thuật.",
+    "Hoa Cái": "Sao của nghệ thuật, triết học và tôn giáo. Người có Hoa Cái tính cách thanh cao, thích yên tĩnh và có chiều sâu tâm linh.",
+    "Tướng Tinh": "Sao quyền uy, thể hiện tư chất lãnh đạo, khả năng quản lý và điều hành tổ chức vững vàng.",
+    "Kiếp Sát": "Khí thế mãnh liệt, nhạy bén phản ứng, nhưng cần giữ bình tĩnh để tránh thị phi hoặc hao tổn bất ngờ.",
+    "Tai Sát": "Cần chú ý cẩn trọng trong các chuyến đi xa và luôn giữ an toàn lao động.",
+    "Cô Thần": "Tính cách độc lập, thích tự suy ngẫm một mình, đôi khi cảm thấy ít người thấu hiểu.",
+    "Quả Tú": "Tâm hồn kín đáo, sống nội tâm sâu sắc, coi trọng không gian cá nhân.",
+    "Không Vong": "Báo hiệu những khoảng không cần buông bỏ chấp niệm; thích hợp với tu dưỡng tinh thần, triết học và sáng tạo phi truyền thống."
+  }
+}
